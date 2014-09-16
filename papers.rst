@@ -1,1 +1,11 @@
-Paper suggestions
+LZ Paper suggestions
+  * Introduction to Statistical Learning Theory (http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf)
+  * Statistical Learning Theory (http://web.mit.edu/6.962/www/www_spring_2001/emin/slt.pdf)
+  * Deep Sparse Rectifier Networks (http://eprints.pascal-network.org/archive/00008596/01/glorot11a.pdf)
+    * Paper which shows we might not need unsupervised pretraining if we use rectifiers.
+  * Sequence to Sequence Learning with Neural Networks (http://arxiv.org/pdf/1409.3215v1.pdf)
+  * Representation Learning (http://arxiv.org/pdf/1206.5538.pdf)
+    * Overview of representation learning techniques.
+  * Generalized Method of Moments (http://www.ksh.hu/statszemle_archive/2012/2012_K16/2012_K16_150.pdf)
+  * some Long Short-Term Memory (LSTM) paper (e.g. http://www.overcomplete.net/papers/nn2012.pdf, but I don't know if it's good)
+  * Richard Socher's PhD thesis on "Recursive Deep Learning for Natural Language Processing and Computer Vision" (http://nlp.stanford.edu/~socherr/thesis.pdf)
