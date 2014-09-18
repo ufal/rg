@@ -20,3 +20,4 @@
 
 ## Paper suggestions (Ondrej Platek)
  * Using a knowledge graph and query click logs for unsupervised learning of relation detection
+(http://research.microsoft.com/pubs/185271/ICASSP13-KG.pdf)
