@@ -21,3 +21,6 @@
 ## Paper suggestions (Ondrej Platek)
  * Using a knowledge graph and query click logs for unsupervised learning of relation detection
 (http://research.microsoft.com/pubs/185271/ICASSP13-KG.pdf)
+
+## Paper suggestions (Ales Tamchyna)
+  * Fast and Robust Neural Network Joint Models for Statistical Machine Translation (http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
