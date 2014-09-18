@@ -16,3 +16,7 @@
   * MSR NE Invited Talks (http://research.microsoft.com/apps/catalog/default.aspx?p=1&sb=no&ps=25&t=videos&sf=&s=&r=47184&vr=&ra=)
   * Matt Henderson: Recurrent NN for Dialog State Tracking @ MSR (http://research.microsoft.com/apps/video/default.aspx?id=226991&l=i)
   * Andrew Ng about Deep Learning (https://www.youtube.com/watch?v=W15K9PegQt0)
+
+
+## Paper suggestions (Ondrej Platek)
+ * Using a knowledge graph and query click logs for unsupervised learning of relation detection
