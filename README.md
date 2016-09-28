@@ -1,4 +1,4 @@
-= ÚFAL Reading Group =
+# ÚFAL Reading Group
 
 **ÚFAL Reading Group is focused on Machine Learning in NLP.**
 
