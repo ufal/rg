@@ -1,6 +1,6 @@
-# UFAL RG in 2015
+# ÚFAL RG in 2015
 
-**UFAL Reading Group is focused on Machine Learning in NLP.**
+**ÚFAL Reading Group is focused on Machine Learning in NLP.**
 
 If you are interested sign up to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 

@@ -1,4 +1,4 @@
-# UFAL RG in 2014
+# ÚFAL RG in 2014
 
 **The main topic of the reading group is Machine Learning and Natural Language Processing.**
 
