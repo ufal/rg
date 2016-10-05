@@ -4,7 +4,7 @@
 
 If you are interested sign up to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
-**Regular meetings take place on Tuesday at 14:00 in front of the room 424.**
+**Regular meetings take place on Tuesday at 14:00 in S1.**
 
 ## Program
 
