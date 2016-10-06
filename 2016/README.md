@@ -11,7 +11,7 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | Date          | Who                | Title | Link
 | ----          | ---                | ----- | ----
 | 04 Oct 2016   | Milan Straka       | Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton: **Layer Normalization** | https://arxiv.org/abs/1607.06450
-| 11 Oct 2016   | &nbsp;             | &nbsp; | &nbsp;
+| 11 Oct 2016   | Aleš Tamchyna      | Shiqi Shen et al: **Minimum Risk Training for Neural Machine Translation**  | https://arxiv.org/abs/1512.02433
 | 18 Oct 2016   | &nbsp;             | &nbsp; | &nbsp;
 | 25 Oct 2016   | Ondrej Platek      | Bahdanau et al: **An Actor-Critic Algorithm for Sequence Prediction** | https://arxiv.org/abs/1607.07086 |
 | 01 Nov 2016   | &nbsp;             | &nbsp; | &nbsp;
