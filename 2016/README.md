@@ -50,6 +50,10 @@ You can choose any paper you find interesting, but if you would like some inspir
 
 - Ziang Xie, Anand Avati, Naveen Arivazhagan, Dan Jurafsky, Andrew Y. Ng: **Neural Language Correction with Character-Based Attention**. https://arxiv.org/abs/1603.09727
 
+### Language Modelling
+
+- Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, Yonghui Wu: **Exploring the Limits of Language Modeling**. https://arxiv.org/abs/1602.02410
+
 ### Image Labelling
 
 - Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan: **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**. https://arxiv.org/abs/1609.06647
