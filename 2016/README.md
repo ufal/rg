@@ -68,3 +68,7 @@ You can choose any paper you find interesting, but if you would like some inspir
 
 - Diederik P Kingma, Max Welling: **Auto-Encoding Variational Bayes**. https://arxiv.org/abs/1312.6114
 - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio: **Generating Sentences from a Continuous Space**. https://arxiv.org/abs/1511.06349
+
+### Speech Synthesis
+
+- Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu: **WaveNet: A Generative Model for Raw Audio**. https://arxiv.org/abs/1609.03499
