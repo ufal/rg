@@ -16,10 +16,10 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 25 Oct 2016   | Ondrej Platek      | Bahdanau et al: **An Actor-Critic Algorithm for Sequence Prediction** | https://arxiv.org/abs/1607.07086 |
 | 01 Nov 2016   | &nbsp;             | &nbsp; | &nbsp;
 | *08 Nov 2016* | *No RG*            | *Dean's sports day* | &nbsp;
-| 15 Nov 2016   | &nbsp;             | &nbsp; | &nbsp;
-| 22 Nov 2016   | &nbsp;             | &nbsp; | &nbsp;
-| 29 Nov 2016   | &nbsp;             | &nbsp; | &nbsp;
-| 06 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
+| 15 Nov 2016   | Rudolf Rosa        | &nbsp; | &nbsp;
+| 22 Nov 2016   | Martin Popel       | &nbsp; | &nbsp;
+| 29 Nov 2016   | Vojtěch Hudeček    | &nbsp; | &nbsp;
+| 06 Dec 2016   | David Mareček      | &nbsp; | &nbsp;
 | 13 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
 | 20 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
 | 03 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
