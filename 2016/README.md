@@ -14,7 +14,7 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 11 Oct 2016   | Aleš Tamchyna      | Shiqi Shen et al: **Minimum Risk Training for Neural Machine Translation** | https://arxiv.org/abs/1512.02433
 | 18 Oct 2016   | Milan Straka       | Sam Wiseman, Alexander M. Rush: **Sequence-to-Sequence Learning as Beam-Search Optimization** | https://arxiv.org/abs/1606.02960
 | 25 Oct 2016   | Ondřej Plátek      | Bahdanau et al: **An Actor-Critic Algorithm for Sequence Prediction** | https://arxiv.org/abs/1607.07086 |
-| 01 Nov 2016   | Petr Bělohlávek    | &nbsp; | &nbsp;
+| 01 Nov 2016   | Petr Bělohlávek    | Dumoulin, Belghazi et al: **Adversarially Learned Inference** | https://arxiv.org/abs/1606.00704
 | *08 Nov 2016* | *No RG*            | *Dean's sports day* | &nbsp;
 | 15 Nov 2016   | Rudolf Rosa        | &nbsp; | &nbsp;
 | 22 Nov 2016   | Martin Popel       | &nbsp; | &nbsp;
