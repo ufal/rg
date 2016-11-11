@@ -16,7 +16,7 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 25 Oct 2016   | Ondřej Plátek      | Bahdanau et al: **An Actor-Critic Algorithm for Sequence Prediction** | https://arxiv.org/abs/1607.07086 |
 | 01 Nov 2016   | Petr Bělohlávek    | Dumoulin, Belghazi et al: **Adversarially Learned Inference** | https://arxiv.org/abs/1606.00704
 | *08 Nov 2016* | *No RG*            | *Dean's sports day* | &nbsp;
-| 15 Nov 2016   | Rudolf Rosa        | &nbsp; | &nbsp;
+| 15 Nov 2016   | Rudolf Rosa        | Bojanowski et al: **Enriching Word Vectors with Subword Information** | https://arxiv.org/abs/1607.04606
 | 22 Nov 2016   | Martin Popel       | &nbsp; | &nbsp;
 | 29 Nov 2016   | Vojtěch Hudeček    | &nbsp; | &nbsp;
 | 06 Dec 2016   | David Mareček      | &nbsp; | &nbsp;
