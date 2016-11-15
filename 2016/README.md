@@ -17,7 +17,7 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 01 Nov 2016   | Petr Bělohlávek    | Dumoulin, Belghazi et al: **Adversarially Learned Inference** | https://arxiv.org/abs/1606.00704
 | *08 Nov 2016* | *No RG*            | *Dean's sports day* | &nbsp;
 | 15 Nov 2016   | Rudolf Rosa        | Bojanowski et al: **Enriching Word Vectors with Subword Information** | https://arxiv.org/abs/1607.04606
-| 22 Nov 2016   | Martin Popel       | &nbsp; | &nbsp;
+| 22 Nov 2016   | Martin Popel       | Jan Chorowski, Michał Zapotoczny, Paweł Rychlikowski: **Read, Tag, and Parse All at Once, or Fully-neural Dependency Parsing** | https://arxiv.org/abs/1609.03441
 | 29 Nov 2016   | Vojtěch Hudeček    | &nbsp; | &nbsp;
 | 06 Dec 2016   | David Mareček      | &nbsp; | &nbsp;
 | 13 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
@@ -39,7 +39,6 @@ You can choose any paper you find interesting, but if you would like some inspir
 - Eliyahu Kiperwasser, Yoav Goldberg: **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations**. https://arxiv.org/abs/1603.04351
 - Yuan Zhang, David Weiss: **Stack-propagation: Improved Representation Learning for Syntax**. https://arxiv.org/abs/1603.06598
 - Bernd Bohnet, Ryan McDonald, Emily Pitler and Ji Ma: **Generalized Transition-based Dependency Parsing via Control Parameters**. https://www.aclweb.org/anthology/P/P16/P16-1015.pdf
-- Jan Chorowski, Michał Zapotoczny, Paweł Rychlikowski: **Read, Tag, and Parse All at Once, or Fully-neural Dependency Parsing**. https://arxiv.org/abs/1609.03441
 
 ### Neural Machine Translation
 
