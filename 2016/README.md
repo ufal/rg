@@ -20,8 +20,8 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 22 Nov 2016   | Martin Popel       | Jan Chorowski, Michał Zapotoczny, Paweł Rychlikowski: **Read, Tag, and Parse All at Once, or Fully-neural Dependency Parsing** | https://arxiv.org/abs/1609.03441
 | 29 Nov 2016   | Vojtěch Hudeček    | Adam Santoro et al: **One-shot Learning with Memory-Augmented Neural Networks** | https://arxiv.org/abs/1605.06065
 | 06 Dec 2016   | David Mareček      | Omer Levy, Anders Søgaard, Yoav Goldberg: **Reconsidering Cross-lingual Word Embeddings** | https://arxiv.org/abs/1608.05426
-| 13 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
-| 20 Dec 2016   | &nbsp;             | &nbsp; | &nbsp;
+| 13 Dec 2016   | Jindřich Libovický | &nbsp; | &nbsp;
+| 20 Dec 2016   | Dušan Variš        | &nbsp; | &nbsp;
 | 03 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
 | 10 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
 
