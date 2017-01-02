@@ -20,9 +20,9 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 22 Nov 2016   | Martin Popel       | Jan Chorowski, Michał Zapotoczny, Paweł Rychlikowski: **Read, Tag, and Parse All at Once, or Fully-neural Dependency Parsing** | https://arxiv.org/abs/1609.03441
 | 29 Nov 2016   | Vojtěch Hudeček    | Adam Santoro et al: **One-shot Learning with Memory-Augmented Neural Networks** | https://arxiv.org/abs/1605.06065
 | 06 Dec 2016   | David Mareček      | Omer Levy, Anders Søgaard, Yoav Goldberg: **Reconsidering Cross-lingual Word Embeddings** | https://arxiv.org/abs/1608.05426
-| 13 Dec 2016   | Jindřich Libovický | &nbsp; | &nbsp;
-| 20 Dec 2016   | Dušan Variš        | &nbsp; | &nbsp;
-| 03 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 13 Dec 2016   | Jindřich Libovický | Jiasen Lu, Caiming Xiong, Devi Parikh and Richard Socher: **Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning** | https://arxiv.org/abs/1612.01887
+| 20 Dec 2016   | Dušan Variš        | Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber: **Training Very Deep Networks** | https://arxiv.org/abs/1507.06228
+| *03 Jan 2017* | *No RG*            | *You can visit a talk at 1pm in SU1: Memory Networks for Question Answering by Jakub Hajič* | &nbsp;
 | 10 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
 
 ## Papers for Inspiration
