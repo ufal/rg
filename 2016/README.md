@@ -23,7 +23,8 @@ If you are interested sign up to our [mailing list](https://groups.google.com/fo
 | 13 Dec 2016   | Jindřich Libovický | Jiasen Lu, Caiming Xiong, Devi Parikh and Richard Socher: **Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning** | https://arxiv.org/abs/1612.01887
 | 20 Dec 2016   | Dušan Variš        | Rupesh Kumar Srivastava, Klaus Greff, Jürgen Schmidhuber: **Training Very Deep Networks** | https://arxiv.org/abs/1507.06228
 | *03 Jan 2017* | *No RG*            | *You can visit a talk at 1pm in SU1: Memory Networks for Question Answering by Jakub Hajič* | &nbsp;
-| 10 Jan 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 10 Jan 2017   | Milan Straka       | Diederik P Kingma, Max Welling: **Auto-Encoding Variational Bayes** | https://arxiv.org/abs/1312.6114
+| &nbsp;        | &nbsp;             | Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio: **Generating Sentences from a Continuous Space** | https://arxiv.org/abs/1511.06349
 
 ## Papers for Inspiration
 
