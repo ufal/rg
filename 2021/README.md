@@ -12,7 +12,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 
 <div class="program"><style>
   .program+table td { vertical-align: middle !important}
-  .program+table tr>td:nth-of-type(1), .program+table tr>td:nth-of-type(2) {white-space: nowrap}
+  .program+table td:nth-of-type(1), .program+table td:nth-of-type(2) {white-space: nowrap}
 </style></div>
 
 | Date        | Who                  | Paper(s) |
