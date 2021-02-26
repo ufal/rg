@@ -19,7 +19,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 | ----        | ---                  | -------- |
 | [17 Feb 2021](https://lectures.ms.mff.cuni.cz/video/rec/rg/2021/rg_210217_dreamer.mp4) | Milan Straka         | [D. Hafner et al.: Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)<br>[D. Hafner et al.: Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)<br>[D. Hafner et al.: Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193)
 | 24 Feb 2021 | Milan Straka | [Radford et al.: CLIP: Connecting Text and Images](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)
-| 03 Mar 2021 | Milan Straka | [VQ-VAE](https://arxiv.org/abs/1711.00937), [VQ-VAE-2](https://arxiv.org/abs/1906.00446), [dVAE](https://arxiv.org/abs/2102.12092), [NVAE](https://arxiv.org/abs/2007.03898)
+| 03 Mar 2021 | Milan Straka | [VQ-VAE](https://arxiv.org/abs/1711.00937), [VQ-VAE-2](https://arxiv.org/abs/1906.00446), [dVAE](https://arxiv.org/abs/2102.12092); maybe also [NVAE](https://arxiv.org/abs/2007.03898) or [VQGAN](https://arxiv.org/pdf/2012.09841.pdf)
 
 ## Past Years
 
