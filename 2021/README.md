@@ -19,7 +19,16 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 | ----        | ---                  | -------- |
 | [17 Feb 2021](https://lectures.ms.mff.cuni.cz/video/rec/rg/2021/rg_210217_dreamer.mp4) | Milan Straka         | [D. Hafner et al.: Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)<br>[D. Hafner et al.: Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)<br>[D. Hafner et al.: Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193)
 | 24 Feb 2021 | Milan Straka | [Radford et al.: CLIP: Connecting Text and Images](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)
-| 03 Mar 2021 | Milan Straka | [VQ-VAE](https://arxiv.org/abs/1711.00937), [VQ-VAE-2](https://arxiv.org/abs/1906.00446), [dVAE](https://arxiv.org/abs/2102.12092); maybe also [NVAE](https://arxiv.org/abs/2007.03898) or [VQGAN](https://arxiv.org/pdf/2012.09841.pdf)
+| [03 Mar 2021](https://lectures.ms.mff.cuni.cz/video/rec/rg/2021/rg_210303_vqvae.mp4) | Milan Straka | [VQ-VAE](https://arxiv.org/abs/1711.00937), [VQ-VAE-2](https://arxiv.org/abs/1906.00446), [VQGAN](https://arxiv.org/pdf/2012.09841.pdf); related is [NVAE](https://arxiv.org/abs/2007.03898)
+| 10 Mar 2021 | Milan Straka | [DALL·E and dVAE](https://arxiv.org/abs/2102.12092)
+
+## Possible Papers to Discuss
+
+- [NFNets](https://arxiv.org/abs/2102.06171)
+- [Sharpness-Aware Minimization](https://arxiv.org/abs/2010.01412)
+- [DETR](https://arxiv.org/abs/2005.12872) and [Deformable DETR](https://arxiv.org/abs/2010.04159)
+- [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine](https://arxiv.org/abs/2012.00152)
+- [First return, then explore](https://www.nature.com/articles/s41586-020-03157-9)
 
 ## Past Years
 
