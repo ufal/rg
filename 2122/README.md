@@ -1,0 +1,28 @@
+# Reading Group in 2021/22
+
+**The reading group is taking place irregularly on Tuesday 16:00.**
+
+If you are interested, please subscribe to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
+
+## Program
+
+<div class="program"><style>
+  .program+table td { vertical-align: middle !important}
+  .program+table td:nth-of-type(1), .program+table td:nth-of-type(2) {white-space: nowrap}
+</style></div>
+
+| Date        | Who                  | Paper(s) |
+| ----        | ---                  | -------- |
+
+## Possible Papers to Discuss
+
+
+## Past Years
+
+- [ÚFAL Reading Group 2020/21](https://ufal.mff.cuni.cz/courses/rg/2021)
+- [Deep Learning Seminar 2019/20 Winter](https://ufal.mff.cuni.cz/courses/npfl117/1920-winter), [Deep Learning Seminar 2019/20 Summer](https://ufal.mff.cuni.cz/courses/npfl117/1920-summer)
+- [Deep Learning Seminar 2018/19 Winter](https://ufal.mff.cuni.cz/courses/npfl117/1819-winter), [Deep Learning Seminar 2018/19 Summer](https://ufal.mff.cuni.cz/courses/npfl117/1819-summer)
+- [Deep Learning Seminar 2017/18 Summer](https://ufal.mff.cuni.cz/courses/npfl117/1718-summer)
+- [ÚFAL Reading Group 2016/17 Winter](https://ufal.mff.cuni.cz/courses/rg/1617), [Deep Learning Seminar 2016/17 Summer](https://ufal.mff.cuni.cz/courses/npfl117/1617-summer)
+- [ÚFAL Reading Group 2015/16](https://ufal.mff.cuni.cz/courses/rg/1516)
+- [ÚFAL Reading Group 2014/15](https://ufal.mff.cuni.cz/courses/rg/1415)
