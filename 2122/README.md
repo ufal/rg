@@ -8,11 +8,14 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 
 <div class="program"><style>
   .program+table td { vertical-align: middle !important}
-  .program+table td:nth-of-type(1), .program+table td:nth-of-type(2) {white-space: nowrap}
+  .program+table td:nth-of-type(1), .program+table td:nth-of-type(2), .program+table td:nth-of-type(3) {white-space: nowrap}
 </style></div>
 
-| Date        | Who                  | Paper(s) |
-| ----        | ---                  | -------- |
+| Date & Time        | Location    | Who                  | Paper(s) |
+| ----               | ---         | ---                  | -------- |
+| 12 Oct 2021 16:00  | CIIRC B633* | Tomas Soucek         | [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)<br>[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+
+\* CIIRC at Dejvicka, Jugoslávských partyzánů 3, building B (the one further from metro), floor 6, room 633
 
 ## Possible Papers to Discuss
 
