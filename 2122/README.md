@@ -1,9 +1,10 @@
 # Reading Group in 2021/22
 
-**The reading group is taking place irregularly.**
+**NLP Reading Group takes place on alternate Wednesdays\* at 10:30 in IMPAKT.**
 
 If you are interested, please subscribe to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
+\* 26.01, 9.02 and so on. The date will probably change in the next semester.
 ## Program
 
 <div class="program"><style>
@@ -16,6 +17,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 | Tue, 12 Oct 2021, 16:00<br>CIIRC B633*  | Tomas Soucek         | [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)<br>[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795) |
 | Wed, 20 Oct 2021, 10:30<br>IMPAKT N207* | Tomasz Limisiewicz   | [Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection](https://aclanthology.org/2020.acl-main.647/)<br>[Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00359/98091/Amnesic-Probing-Behavioral-Explanation-with) |
 | Wed, 3 Nov 2021, 10:30<br>IMPAKT N207* | Sunit Bhattacharya | [Towards best practices for leveraging human language processing signals for natural language processing](https://aclanthology.org/2020.lincr-1.3.pdf) |
+| Wed, 26 Jan 2021, 10:30<br>IMPAKT N3* | Tomáš Musil  | [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490) |
 
 \* CIIRC at Dejvicka, Jugoslávských partyzánů 3, building B (the one further from metro), floor 6, room 633
 
