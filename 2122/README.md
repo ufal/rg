@@ -1,10 +1,10 @@
 # Reading Group in 2021/22
 
-**NLP Reading Group takes place on alternate Wednesdays\* at 10:30 in IMPAKT.**
+**NLP Reading Group takes place on alternate Tuesdays\* at 10:30 in IMPAKT.**
 
 If you are interested, please subscribe to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
-\* 26.01, 9.02 and so on. The date will probably change in the next semester.
+\* 8.03, 22.03 and so on.
 ## Program
 
 <div class="program"><style>
