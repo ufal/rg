@@ -20,6 +20,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 | Wed, 26 Jan 2022, 10:30<br>IMPAKT N3* | Tomáš Musil  | [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490) |
 | Wed, 9 Feb 2022, 10:30<br>**Malá Strana S6** | Jindřich Libovický  | [It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://aclanthology.org/2021.naacl-main.185.pdf) |
 | Wed, 23 Feb 2022, 10:30<br>IMPAKT N207* | Tomasz Limisiewicz  | [Intrinsic Probing through Dimension Selection](https://aclanthology.org/2020.emnlp-main.15.pdf)<br> [A Latent-Variable Model for Intrinsic Probing](https://arxiv.org/pdf/2201.08214.pdf) |
+| Tue, 29 Mar 2022, 10:30<br>IMPAKT N207* | Zdeněk Kasner | [Typical Decoding for Natural Language Generation](https://arxiv.org/abs/2202.00666) |
 
 \* CIIRC at Dejvicka, Jugoslávských partyzánů 3, building B (the one further from metro), floor 6, room 633
 
