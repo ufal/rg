@@ -18,8 +18,9 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
-## Possible Papers to Discuss
-
+## Interesting Papers to Discuss
+- [Downstream Datasets Make Surprisingly Good Pretraining Corpora](https://arxiv.org/abs/2209.14389)
+- [Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
 
 ## Past Years
 
