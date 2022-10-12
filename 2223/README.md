@@ -1,9 +1,10 @@
 # Reading Group in 2022/23
 
-**NLP Reading Group takes place on ...**
+**NLP Reading Group takes place on Tuesdays\* at 10:é0 in IMPAKT.**
 
 If you are interested, please subscribe to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
+\* 18.10, 1.11 and so on.
 ## Program
 
 <div class="program"><style>
@@ -11,9 +12,12 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   .program+table td:nth-of-type(1), .program+table td:nth-of-type(2) {white-space: nowrap}
 </style></div>
 
-| Date & Time<br>Location           | Who                  | Paper(s) |
-| ----                              | ---                  | -------- |
+  | Date & Time<br>Location           | Who                  | Paper(s) |
+  | ----                              | ---                  | -------- |
+  | Tue, 18 Oct 2022, 10:00<br>IMPAKT N207* | Zdeněk Kasner | [Standing on the Shoulders of Giant Frozen Language Models](https://arxiv.org/abs/2204.10019) |
 
+
+\* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
 ## Possible Papers to Discuss
 
 
