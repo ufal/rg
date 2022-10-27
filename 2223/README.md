@@ -15,6 +15,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Date & Time<br>Location           | Who                  | Paper(s) |
   | ----                              | ---                  | -------- |
   | Tue, 18 Oct 2022, 10:00<br>IMPAKT N207* | Zdeněk Kasner | [Standing on the Shoulders of Giant Frozen Language Models](https://arxiv.org/abs/2204.10019) |
+  | Tue, 1 Nov 2022, 10:00<br>IMPAKT N207* | Michal Novák | [CDLM: Cross-Document Language Modeling](https://aclanthology.org/2021.findings-emnlp.225) and [QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions](https://aclanthology.org/2021.emnlp-main.778) |
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
