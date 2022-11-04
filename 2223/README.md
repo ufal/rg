@@ -1,6 +1,6 @@
 # Reading Group in 2022/23
 
-**NLP Reading Group takes place on Tuesdays\* at 10:00 in IMPAKT.**
+**NLP Reading Group takes place on Tuesdays\* at 10:30 in IMPAKT.**
 
 If you are interested, please subscribe to our [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
