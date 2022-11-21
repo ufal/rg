@@ -22,6 +22,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 ## Interesting Papers to Discuss
 - [Downstream Datasets Make Surprisingly Good Pretraining Corpora](https://arxiv.org/abs/2209.14389)
 - [Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
+- [How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers](https://arxiv.org/pdf/2211.03495.pdf)
 
 ## Past Years
 
