@@ -16,6 +16,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | ----                              | ---                  | -------- |
   | Tue, 18 Oct 2022, 10:00<br>IMPAKT N207* | Zdeněk Kasner | [Standing on the Shoulders of Giant Frozen Language Models](https://arxiv.org/abs/2204.10019) |
   | Tue, 1 Nov 2022, 10:00<br>IMPAKT N207* | Michal Novák | [CDLM: Cross-Document Language Modeling](https://aclanthology.org/2021.findings-emnlp.225) and [QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions](https://aclanthology.org/2021.emnlp-main.778) |
+  | Tue, 29 Nov 2022, 10:30<br>IMPAKT N207* | Tomasz Limisiewicz | [Analyzing the Mono- and Cross-Lingual Pretraining Dynamics of Multilingual Language Models](https://arxiv.org/abs/2205.11758) |
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
@@ -24,6 +25,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 - [Co-Writing Screenplays and Theatre Scripts with Language Models: An Evaluation by Industry Professionals](https://arxiv.org/abs/2209.14958)
 - [How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers](https://arxiv.org/pdf/2211.03495.pdf)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+- [Probing via Promtping](https://aclanthology.org/2022.naacl-main.84.pdf)
 
 ## Past Years
 
