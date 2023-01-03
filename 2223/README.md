@@ -18,6 +18,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Tue, 1 Nov 2022, 10:00<br>IMPAKT N207* | Michal Novák | [CDLM: Cross-Document Language Modeling](https://aclanthology.org/2021.findings-emnlp.225) and [QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions](https://aclanthology.org/2021.emnlp-main.778) |
   | Tue, 29 Nov 2022, 10:30<br>IMPAKT N207* | Tomasz Limisiewicz | [Analyzing the Mono- and Cross-Lingual Pretraining Dynamics of Multilingual Language Models](https://arxiv.org/abs/2205.11758) |
   | Tue, 13 Dec 2022, 10:30<br>IMPAKT N207* | David Mareček | [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262) |
+  | Tue, 10 Jan 2023, 10:30<br>IMPAKT N207* | Tomáš Musil   | [Language Models as Agent Models](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.423.pdf) |
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
