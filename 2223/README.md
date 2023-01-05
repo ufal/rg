@@ -28,6 +28,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
 - [How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers](https://arxiv.org/pdf/2211.03495.pdf)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 - [Probing via Promtping](https://aclanthology.org/2022.naacl-main.84.pdf)
+- [Identifying Weaknesses in Machine Translation Metrics Through Minimum Bayes Risk Decoding: A Case Study for COMET](https://aclanthology.org/2022.aacl-main.83.pdf)
 
 ## Past Years
 
