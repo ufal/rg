@@ -20,6 +20,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Tue, 13 Dec 2022, 10:30<br>IMPAKT N207* | David Mareček | [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262) |
   | Tue, 10 Jan 2023, 10:30<br>IMPAKT N207* | Tomáš Musil   | [Language Models as Agent Models](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.423.pdf) |
   | Tue, 24 Jan 2023, 10:30<br>IMPAKT N207* | Mateusz Krubiński | [LLM.int8(): 8-bit Matrix Multiplicationfor Transformers at Scale](https://arxiv.org/pdf/2208.07339.pdf) and [8-bit Optimizers via Block-Wise Quatnization](https://arxiv.org/pdf/2110.02861.pdf)|
+  | Tue, 7 Feb 2023, 10:30<br>IMPAKT N207* | Martin Popel | [Identifying Weaknesses in Machine Translation Metrics Through Minimum Bayes Risk Decoding: A Case Study for COMET](https://arxiv.org/pdf/2202.05148.pdf) |
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
