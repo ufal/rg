@@ -23,6 +23,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Tue, 7 Feb 2023, 10:30<br>IMPAKT N207* | Martin Popel | [Identifying Weaknesses in Machine Translation Metrics Through Minimum Bayes Risk Decoding: A Case Study for COMET](https://arxiv.org/pdf/2202.05148.pdf) |
   | Tue, 21 Feb 2023, 10:30<br>IMPAKT N207* | Jindra Helcl | [XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models](https://arxiv.org/pdf/2301.10472.pdf) |
   | Tue, 21 Mar 2023, 10:30<br>IMPAKT N207* | Jindřich Libovický | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf) |
+  | Tue, 4 Apr 2023, 10:30<br>IMPAKT N207* | Ondřej Plátek| [Distribution Aware Metrics for Conditional Natural Language Generation](https://arxiv.org/pdf/2209.07518.pdf) |
 
 
 \* [IMPAKT at Troja](https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja), V Holešovičkách 2, building entrance is 200 meters from Kuchyňka bus stop (bus number 201 from Nadrazi Holesovice), floor 2, conference room N207
