@@ -25,6 +25,8 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Tue, 21 Mar 2023, 10:30<br>IMPAKT N207* | Jindřich Libovický | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf) |
   | Tue, 4 Apr 2023, 10:30<br>IMPAKT N207* | Ondřej Plátek| [Distribution Aware Metrics for Conditional Natural Language Generation](https://arxiv.org/pdf/2209.07518.pdf) |
   | Tue, 18 Apr 2023, 10:30<br>IMPAKT N207* | Michal Novák | [Coreference Resolution through a seq2seq Transition-Based System](https://arxiv.org/pdf/2211.12142.pdf) |
+  | Tue, 16 May 2023, 10:30<br>IMPAKT N207* | Tom Kocmi | [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://arxiv.org/pdf/2302.14520.pdf) |
+
 
 
 
