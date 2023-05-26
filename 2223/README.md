@@ -26,7 +26,7 @@ If you are interested, please subscribe to our [mailing list](https://groups.goo
   | Tue, 4 Apr 2023, 10:30<br>IMPAKT N207* | Ondřej Plátek| [Distribution Aware Metrics for Conditional Natural Language Generation](https://arxiv.org/pdf/2209.07518.pdf) |
   | Tue, 18 Apr 2023, 10:30<br>IMPAKT N207* | Michal Novák | [Coreference Resolution through a seq2seq Transition-Based System](https://arxiv.org/pdf/2211.12142.pdf) |
   | Tue, 16 May 2023, 10:30<br>IMPAKT N207* | Tom Kocmi | [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://arxiv.org/pdf/2302.14520.pdf) |
-
+  | Tue, 30 May 2023, 10:30<br>IMPAKT N207* | Tomasz Limisiewicz | [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) |
 
 
 
